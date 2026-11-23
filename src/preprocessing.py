@@ -1,4 +1,3 @@
-
 import numpy as np
 import mne
 from pathlib import Path
